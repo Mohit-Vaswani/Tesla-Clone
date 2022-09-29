@@ -55,7 +55,7 @@ const Navbar = styled.nav`
     }
 
     ul li a:hover{
-        color: #256D85;
+        color: blue;
     }
 `
 
