@@ -7,7 +7,7 @@ function App(){
         <>
         <TeslaHeader/>
         <TeslaSection 
-        Model="Model-3" 
+        Model="Mohit" 
         para="order online for touchless delivery"
         LButton="Custom Order" 
         RButton="Existing Inventory"
